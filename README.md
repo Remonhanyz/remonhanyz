@@ -1,10 +1,17 @@
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQxbXUwaDhxd2IybjZpenAxZ284YXhhdmZndHpqejdoYXlqOHFhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ehIc2Rb3HRrb1YiQBr/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWl0ajRoZmptczRzZHc4Znk5MWJkeDdzZmh0eGRuMThvMHN0Zms5NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2zeji2UedvZzvIZ45N/giphy.gif"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=600&lines=Transforming+visions+into+responsive+realities;Design-driven%2C+code-powered;From+concept+to+code+%E2%80%94+crafting+the+web;Always+Learning+New+Things" alt="Typing SVG" /></a>
+</div>
+
+
+<h1 align="center">hey there 👋 
+  
+</h1>
 
 ###
 
@@ -17,9 +24,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  <a href="https://drive.google.com/file/d/1XjAbRNFCEI-3MgH3ERW6b2uanJAO2a48/view?usp=sharing">
+      <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:28px; object-fit:contain;"/>
+  </a>
+
+<a href="remonhanyz@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+  </a>
 </div>
-[![Github](https://img.shields.io/github/followers/remonhanyz?label=Follow&style=social)](https://github.com/remonhanyz)
 
 
 ###
@@ -73,6 +86,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 ###
 
-<img src="https://raw.githubusercontent.com/Remonhanyz/Remonhanyz/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
 
-###
