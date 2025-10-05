@@ -1,3 +1,7 @@
+<h1 align="center">hey there 👋 
+  
+</h1>
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWl0ajRoZmptczRzZHc4Znk5MWJkeDdzZmh0eGRuMThvMHN0Zms5NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2zeji2UedvZzvIZ45N/giphy.gif"  />
 </div>
@@ -9,9 +13,7 @@
 </div>
 
 
-<h1 align="center">hey there 👋 
-  
-</h1>
+
 
 ###
 
@@ -65,7 +67,7 @@
 
 ###
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<h3 align="left">Fun fact:</h3> <p>I once solved the world's oldest question with a single line of JavaScript</p>
 <!-- wi*quL3fcV -->
 
 ```javascript
@@ -86,7 +88,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 ###
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</p>
+</p> -->
 
