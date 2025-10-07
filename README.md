@@ -68,7 +68,7 @@
 
 ###
 
-<h3 align="left">😹 Fun fact:</h3> <p>I once solved the world's oldest question with a single line of JavaScript</p>
+<h3 align="left">😹 Fun fact</h3> <p>I once solved the world's oldest question with a single line of JavaScript</p>
 <!-- wi*quL3fcV -->
 
 ```javascript
@@ -80,7 +80,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats</h3>
 
 
 <div align="center">
