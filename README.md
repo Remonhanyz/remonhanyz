@@ -24,8 +24,9 @@
 <p align="left">I'm a Front-End Developer from Cairo, Egypt<br><br>- 🔭 I’m working as a Front-End Developer specializing in React.js and Next.js.<br>- 📚 I'm currently learning advanced TypeScript and full-stack development concepts.<br>- ⚡ In my free time enjoy reading books, building side projects, exploring new web technologies, and improving my UI/UX design skills.</p>
 
 ###
+<h3 align="left">📥  Contact Me</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   <a href="https://drive.google.com/file/d/1XjAbRNFCEI-3MgH3ERW6b2uanJAO2a48/view?usp=sharing">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:28px; object-fit:contain;"/>
@@ -43,7 +44,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -67,7 +68,7 @@
 
 ###
 
-<h3 align="left">Fun fact:</h3> <p>I once solved the world's oldest question with a single line of JavaScript</p>
+<h3 align="left">😹 Fun fact:</h3> <p>I once solved the world's oldest question with a single line of JavaScript</p>
 <!-- wi*quL3fcV -->
 
 ```javascript
